@@ -1,0 +1,22 @@
+{
+  "name": "keywordvideo",
+  "version": "1.0.0",
+  "description": "Generate a video based on any words given",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidneyJunior22/KeyWordvideo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SidneyJunior22/KeyWordvideo/issues"
+  },
+  "homepage": "https://github.com/SidneyJunior22/KeyWordvideo#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
